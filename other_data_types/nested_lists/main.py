@@ -1,5 +1,6 @@
 vegetables =['tomatoes', 'potatoes', 'onions']
-vegetables.remove('onion')
-vegetables.append('carrots','cucumbers')
+vegetables.remove('onions')
+vegetables.append('carrots')
+vegetables.append('cucumbers')
 vegetables.sort()
-print()
+print('Updated Vegetable Inventory:',vegetables)
